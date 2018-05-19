@@ -11,3 +11,10 @@ The game will be written in C# :eyes:
 A forum user I met on GTAForums. No doubt one of the best persons I have met on the internet. This game will be about this great person, about his little problems (IDAHOS!) and his beeps and boops. :)
 
 *This ReadMe and this project in general is still in its infancy stage. We will update sooner than soon. :P* 
+
+
+
+
+
+
+very cool
